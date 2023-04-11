@@ -55,44 +55,40 @@ function multiply() {
 
  function three() {
   document.querySelector('#result').innerText += '3'
-  }
+}
 
  function zero() {
  document.querySelector('#result').innerText += '0'
-    }
+}
 
 function four() {
     document.querySelector('#result').innerText += '4'
-      }
+}
       
 function five() {
     document.querySelector('#result').innerText += '5'
-        }
+}
       
-      function six() {
-
-        document.querySelector('#result').innerText += '6'
-      }
+function six() {
+ document.querySelector('#result').innerText += '6'
+ }
       
-      function seven() {
-
-        document.querySelector('#result').innerText += '7'
-      }
+function seven() {
+    document.querySelector('#result').innerText += '7'
+}
       
-      function eight() {
-
-      document.querySelector('#result').innerText += '8'
-      }
+function eight() {
+document.querySelector('#result').innerText += '8'
+}
       
-      function nine() {
-
-        document.querySelector('#result').innerText += '9'
-      }
+function nine() {
+document.querySelector('#result').innerText += '9'
+}
       
-        function del() {
-          document.querySelector('#result').innerText = '0'
-        }
+function del() {
+document.querySelector('#result').innerText = ' '
+}
       
-        function divide() {
-          document.querySelector('#result').innerText += '/'
-          }
+function divide() {
+document.querySelector('#result').innerText += '/'
+}
